@@ -1,5 +1,4 @@
 import type { CardListData, Config, IntegrationUserConfig, ThemeUserConfig } from 'astro-pure/types'
-import  SpeedInsights  from "@vercel/speed-insights/astro"
 
 export const theme: ThemeUserConfig = {
   // === Basic configuration ===
