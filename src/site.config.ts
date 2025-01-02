@@ -58,17 +58,13 @@ export const theme: ThemeUserConfig = {
   footer: {
     // Registration information for ICP (optional)
     registration: {
-      url: 'https://beian.miit.gov.cn/#/Integrated/index',
-      text: '粤ICP备2023091921号-1'
+      url: 'https://icp.gov.moe/?keyword=APTX4869',
+      text: 'Moe ICP APTX4869'
     },
     /** Enable displaying a “Astro & Pure theme powered” link in your site’s footer. */
     credits: true,
     /** Optional details about the social media accounts for this site. */
-    social: {
-      mail: 'mailto:2676391467@qq.com',
-      github: 'https://astro.build/chat',
-      rss: '/rss.xml'
-    }
+    social: { github: 'https://astro.build/chat' }
   },
 
   content: {
