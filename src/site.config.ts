@@ -64,7 +64,7 @@ export const theme: ThemeUserConfig = {
     /** Enable displaying a “Astro & Pure theme powered” link in your site’s footer. */
     credits: true,
     /** Optional details about the social media accounts for this site. */
-    social: { mail: 'mailto:2676391467@qq.com', github: 'https://github/3urek4' }
+    social: { email: 'mailto:2676391467@qq.com', github: 'https://github/3urek4' }
   },
 
   content: {
