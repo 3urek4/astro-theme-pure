@@ -7,7 +7,7 @@ export const theme: ThemeUserConfig = {
   /** Will be used in index page & copyright declaration */
   author: '3urek4',
   /** Description metadata for your website. Can be used in page metadata. */
-  description: 'Stay hungry, stay foolish',
+  description: 'Script Ahead, Code Behind',
   /** The default favicon for your site which should be a path to an image in the `public/` directory. */
   favicon: '/favicon/favicon.ico',
   /** Specify the default language for this site. */
@@ -62,9 +62,9 @@ export const theme: ThemeUserConfig = {
       text: '粤ICP备2023091921号-1'
     },
     /** Enable displaying a “Astro & Pure theme powered” link in your site’s footer. */
-    credits: true,
+    credits: false,
     /** Optional details about the social media accounts for this site. */
-    social: { email: 'mailto:2676391467@qq.com', github: 'https://github/3urek4' }
+    social: { email: 'mailto:2676391467@qq.com', github: 'https://github.com/3urek4' }
   },
 
   content: {
